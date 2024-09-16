@@ -1,13 +1,9 @@
-
-<h1 align="center">Hi 👋, I'm Suraj Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt = "coding" width = "400" src =
-"https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajmishra8299&label=Profile%20views&color=0e75b6&style=flat" alt="surajmishra8299" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/surajmishra8299](https://linktr.ee/surajmishra8299)
-
-- 📫 How to reach me **surajmishra388495@gmail.com**
+- 👋 Hi, I’m Prateek Jha
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning Web Dev & DSA
+- 📫 Contact: prateekjha681@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Code at 11:11
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
