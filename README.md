@@ -1,4 +1,4 @@
-![logo](https://github.com/surajmishra8299/Profile/blob/main/Blue%20Professional%20Gradient%20App%20Development%20Banner%20Landscape.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Suraj Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src =
