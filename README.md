@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Prateek Jha
+- 👋 Hi, I’m Suraj Mishra
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning Web Dev & DSA
-- 📫 Contact: prateekjha681@gmail.com
+- 📫 Contact: surajmishra388495@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Code at 11:11
 
